@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
